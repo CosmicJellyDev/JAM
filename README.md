@@ -1,3 +1,5 @@
+![JaM Add-on Logo](https://i.imgur.com/aNmzEry_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
+
 # JAM-Just-A-Magnet
 JAM - Just A Magnet is an amazingly simple magnetism Add-on.
 # How to use
