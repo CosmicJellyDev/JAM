@@ -4,6 +4,7 @@
 JAM - Just A Magnet is an amazingly simple magnetism Add-on.
 # How to use
 For information on how to use JAM go to the following link:
+
 https://mcpedl.com/user/cosmicjellydev/
 # Help is needed
 If you know any other languages besides English then please feel free to submit a pull request.
